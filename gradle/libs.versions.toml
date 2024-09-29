@@ -1,0 +1,17 @@
+[versions]
+
+[plugins]
+shadowJar = { id = "com.github.johnrengelman.shadow", version = "8.1.1" }
+kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version = "2.0.0-Beta4" }
+
+
+
+[libraries]
+snakeyaml = { module = "org.yaml:snakeyaml", version = "2.2" }
+annotations = { module = "org.jetbrains:annotations", version = "24.0.1" }
+bstatsBukkit = { module = "org.bstats:bstats-bukkit", version = "3.0.2" }
+kotlinxCoroutinesCore = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.8.0-RC2" }
+lombok = { module = "org.projectlombok:lombok", version = "1.18.34"}
+iridium = { module = "com.iridium:IridiumColorAPI", version = "1.0.4"}
+kyori = { module = "net.kyori:adventure-api", version = "4.17.0"}
+md5 = { module = "net.md-5:bungeecord-chat", version = "1.20-R0.2"}

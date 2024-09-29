@@ -1,0 +1,8 @@
+name: EverBorder
+version: '1.0'
+main: it.evercraft.everborder.Main
+api-version: '1.21'
+authors: [ UnStackss ]
+esProvider: true
+website: https://unstackss.dev
+description: "<@esp>Official EverCraft Borders Manager"
